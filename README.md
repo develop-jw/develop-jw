@@ -1,4 +1,16 @@
-## Hi there 👋
+## Name
+조종원 | Cho Jong Won
+
+## Major
+| Year | Institution  | 
+| -------- | -------- | 
+| 2020.03 ~ | Chonname National University Statistics | 
+| 2024.03 ~ | Data Science Convergence Major | 
+| 2024.03 ~ | Multi Variation Statistical Analysis Laboratory | 
+
+
+
+
 
 <!--
 **develop-jw/develop-jw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
