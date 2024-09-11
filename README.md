@@ -1,7 +1,7 @@
 ## Name
 조종원 | Cho Jong Won
 
-## Major
+## School & Major
 | Year | Institution  | 
 | -------- | -------- | 
 | 2020.03 ~ | Chonname National University Statistics | 
