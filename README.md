@@ -1,5 +1,3 @@
-# develop_jw
-
 <h1 align="center">Hi there, I'm 종원 👋</h1>
 
 <p align="center">
