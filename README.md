@@ -15,14 +15,12 @@
 - 🚀 SK AX **SKALA** AI 서비스 개발 부트캠프 4기 (2026.07~, 판교)
 - 💡 관심 분야: **핀테크**, **LLM/AI 서비스 개발**
 - 🌱 요즘 공부 중: LLM 파인튜닝, RAG, MSA 기반 서비스 설계
-- 📫 연락처: csjsyj12@naver.com
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Language**
-<div text-align="center">
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -50,12 +48,11 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
-</div>
 
 ---
 
 ### 🌐 Connect with Me
 <p>
   <a href="https://github.com/develop-jw"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:csjsyj12@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:csjsyj1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
