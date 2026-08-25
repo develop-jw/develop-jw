@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm 종원 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Statistics+%26+Data+Science;AI+Service+Developer+(SKALA);Fintech+%C3%97+LLM+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Statistics+%26+Data+Science;AI+Service+Developer;Fintech+%C3%97+LLM+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
