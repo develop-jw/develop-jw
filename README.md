@@ -28,52 +28,13 @@
 
 <br clear="right"/>
 
-<!-- ---- 기술 스택 + 숙련도 ---- -->
-## Tech Stack & Proficiency
+<!-- ---- 기술 스택 ---- -->
+## Tech Stack
 
 <!-- ---- lowlighter/metrics 카드 (metrics.yml 워크플로가 자동 생성) ---- -->
 <p align="center">
   <img src="./metrics.languages.svg" width="49%" alt="most used languages" />
   <img src="./metrics.topics.svg" width="49%" alt="tech topics" />
-</p>
-
-> 숙련도는 100점 만점 기준 자기 평가입니다. &nbsp;`90+` 실무 활용 · `70+` 프로젝트 경험 다수 · `50+` 프로젝트 적용 경험 · `30+` 학습 중
-
-### Language
-
-| Skill | Proficiency | Score |
-|:--|:--|:--:|
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> | <img src="https://geps.dev/progress/85?barColor=2E86DE" width="220"/> | **85** |
-| <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/> | <img src="https://geps.dev/progress/75?barColor=2E86DE" width="220"/> | **75** |
-| <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/> | <img src="https://geps.dev/progress/70?barColor=2E86DE" width="220"/> | **70** |
-| <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> | <img src="https://geps.dev/progress/45?barColor=2E86DE" width="220"/> | **45** |
-
-### AI / Data
-
-| Skill | Proficiency | Score |
-|:--|:--|:--:|
-| <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> | <img src="https://geps.dev/progress/85?barColor=6C5CE7" width="220"/> | **85** |
-| <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> | <img src="https://geps.dev/progress/80?barColor=6C5CE7" width="220"/> | **80** |
-| <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> | <img src="https://geps.dev/progress/65?barColor=6C5CE7" width="220"/> | **65** |
-| <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> | <img src="https://geps.dev/progress/65?barColor=6C5CE7" width="220"/> | **65** |
-| <img src="https://img.shields.io/badge/LangChain%20%2F%20LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> | <img src="https://geps.dev/progress/60?barColor=6C5CE7" width="220"/> | **60** |
-| <img src="https://img.shields.io/badge/RAG-0A66C2?style=flat-square&logoColor=white"/> | <img src="https://geps.dev/progress/65?barColor=6C5CE7" width="220"/> | **65** |
-
-### Backend / Infra
-
-| Skill | Proficiency | Score |
-|:--|:--|:--:|
-| <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> | <img src="https://geps.dev/progress/70?barColor=00B894" width="220"/> | **70** |
-| <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> | <img src="https://geps.dev/progress/55?barColor=00B894" width="220"/> | **55** |
-| <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> | <img src="https://geps.dev/progress/55?barColor=00B894" width="220"/> | **55** |
-| <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> | <img src="https://geps.dev/progress/45?barColor=00B894" width="220"/> | **45** |
-| <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> | <img src="https://geps.dev/progress/40?barColor=00B894" width="220"/> | **40** |
-| <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/> | <img src="https://geps.dev/progress/40?barColor=00B894" width="220"/> | **40** |
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,figma,linux&theme=light" alt="tools" />
 </p>
 
 <br/>
