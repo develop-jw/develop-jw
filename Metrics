@@ -1,0 +1,40 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 15 * * *"   # 매일 한국 시간 자정에 자동 실행
+  workflow_dispatch:         # Actions 탭에서 수동 실행 가능
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # ---- 카드 1: 실제 사용 언어 비율 ----
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: develop-jw
+          base: ""
+          config_timezone: Asia/Seoul
+          plugin_languages: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_limit: 8
+          plugin_languages_ignored: html, css
+
+      # ---- 카드 2: 기술 스택 아이콘 (내가 Star 누른 토픽 기준) ----
+      - name: Topics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.topics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: develop-jw
+          base: ""
+          config_timezone: Asia/Seoul
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 0
