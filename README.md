@@ -1,11 +1,16 @@
-<!-- ---- 헤더 배너 ---- -->
+<!-- ---- 헤더 배너 (물결만, 글자 없음) ---- -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:6C5CE7&height=220&section=header&text=Hi%20there,%20I'm%20JongWon&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Statistics%20%C3%97%20Data%20Science%20%C3%97%20AI%20Service&descSize=18&descAlignY=58&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:6C5CE7&height=140&section=header" alt="header" />
+</p>
+
+<!-- ---- 제목 (font= 뒤의 이름만 바꾸면 폰트 변경) ---- -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=44&duration=2500&pause=1000&color=2E86DE&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hi+there%2C+I'm+JongWon" alt="title" />
 </p>
 
 <!-- ---- 타이핑 애니메이션 ---- -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=620&lines=Statistics+%26+Data+Science;AI+Service+Developer;Fintech+%C3%97+LLM+Enthusiast;%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C+%EB%AC%B8%EC%A0%9C%EB%A5%BC+%ED%91%B8%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=6C5CE7&center=true&vCenter=true&width=620&lines=Statistics+%C3%97+Data+Science+%C3%97+AI+Service;AI+Service+Developer;Fintech+%C3%97+LLM+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
