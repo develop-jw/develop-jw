@@ -31,6 +31,12 @@
 <!-- ---- 기술 스택 + 숙련도 ---- -->
 ## Tech Stack & Proficiency
 
+<!-- ---- lowlighter/metrics 카드 (metrics.yml 워크플로가 자동 생성) ---- -->
+<p align="center">
+  <img src="./metrics.languages.svg" width="49%" alt="most used languages" />
+  <img src="./metrics.topics.svg" width="49%" alt="tech topics" />
+</p>
+
 > 숙련도는 100점 만점 기준 자기 평가입니다. &nbsp;`90+` 실무 활용 · `70+` 프로젝트 경험 다수 · `50+` 프로젝트 적용 경험 · `30+` 학습 중
 
 ### Language
